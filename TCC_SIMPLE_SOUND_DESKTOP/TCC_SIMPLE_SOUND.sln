@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCC_SIMPLE_SOUND", "TCC_SIMPLE_SOUND\TCC_SIMPLE_SOUND.csproj", "{62DD1A9C-BFAA-4676-955F-A53A583E802F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tela_entrar", "tela_entrar\tela_entrar.csproj", "{ED47F162-2754-4668-AD8F-88F5D2933F71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tela_cadastrar", "tela_cadastrar\tela_cadastrar.csproj", "{E8FAD8F6-CB0C-4D3D-9EFA-E8B1C801B41C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tela_selecaoDeCurso", "tela_selecaoDeCurso\tela_selecaoDeCurso.csproj", "{ED8291CF-733D-4171-9431-AE405C1D6C9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62DD1A9C-BFAA-4676-955F-A53A583E802F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62DD1A9C-BFAA-4676-955F-A53A583E802F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62DD1A9C-BFAA-4676-955F-A53A583E802F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62DD1A9C-BFAA-4676-955F-A53A583E802F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED47F162-2754-4668-AD8F-88F5D2933F71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED47F162-2754-4668-AD8F-88F5D2933F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED47F162-2754-4668-AD8F-88F5D2933F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED47F162-2754-4668-AD8F-88F5D2933F71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8FAD8F6-CB0C-4D3D-9EFA-E8B1C801B41C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8FAD8F6-CB0C-4D3D-9EFA-E8B1C801B41C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8FAD8F6-CB0C-4D3D-9EFA-E8B1C801B41C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8FAD8F6-CB0C-4D3D-9EFA-E8B1C801B41C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED8291CF-733D-4171-9431-AE405C1D6C9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED8291CF-733D-4171-9431-AE405C1D6C9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED8291CF-733D-4171-9431-AE405C1D6C9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED8291CF-733D-4171-9431-AE405C1D6C9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
